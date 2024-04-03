@@ -1,0 +1,60 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Lookup
+Upstream-Contact: Agni Ilango
+Source: https://github.com/lookup-land/lookup
+
+Files: .gitignore
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .periphery.yml
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .pre-commit-config.yaml
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .swiftformat
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: .swiftlint.yml
+Copyright: No Rights Reserved
+License: CC0-1.0
+
+Files: **/Package.swift
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: **/*.xcassets/*
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: *.xctestplan
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: **/*.xcodeproj/*
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: **/Info.plist
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: **/Package.resolved
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: *.xcworkspace/*
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: **/xcshareddata/*
+Copyright: © Agni Ilango
+License: MPL-2.0
+
+Files: **/DMSans-*.ttf
+Copyright: © Colophon
+License: OFL-1.1
