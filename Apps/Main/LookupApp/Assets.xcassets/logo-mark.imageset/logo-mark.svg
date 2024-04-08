@@ -3,10 +3,9 @@
 <circle cx="500" cy="500.973" r="500" fill="#7BE0A8"/>
 </mask>
 <g mask="url(#mask0_811_336)">
-<rect y="0.973373" width="1000" height="201.065" fill="#34A34C"/>
 <rect y="799.908" width="1000" height="201.065" fill="#A4F9B6"/>
 <rect y="604.168" width="1000" height="201.065" fill="#77E48F"/>
 <rect y="403.103" width="1000" height="201.065" fill="#49CE66"/>
-<rect y="202.038" width="1000" height="201.065" fill="#34A24C"/>
+<rect y="1.28904" width="1000" height="401.814" fill="#34A24C"/>
 </g>
 </svg>
