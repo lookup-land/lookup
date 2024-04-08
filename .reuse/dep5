@@ -31,6 +31,22 @@ Files: **/*.xcassets/*
 Copyright: © Agni Ilango
 License: MPL-2.0
 
+Files: **/*.xcassets/AppIcon.appiconset/*.png
+Copyright: © Agni Ilango
+License: CC-BY-ND-4.0
+
+Files: **/*.xcassets/logo-mark.imageset/*.svg
+Copyright: © Agni Ilango
+License: CC-BY-ND-4.0
+
+Files: **/*.xcassets/icons/*.svg
+Copyright: © Agni Ilango
+License: CC-BY-4.0
+
+Files: **/Preview Content/*
+Copyright: © Agni Ilango
+License: CC-BY-4.0
+
 Files: *.xctestplan
 Copyright: © Agni Ilango
 License: MPL-2.0
